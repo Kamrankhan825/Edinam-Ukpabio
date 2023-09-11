@@ -29,7 +29,7 @@ Feel free to strike up a conversation on any of these topics or anything else yo
 # Languages and Tools:
 # AWS, azure, bash, csharp, css3, django, dotnet, figma, firebase, gcp, go, heroku, hive, html5, illustrator, java, javascript, MongoDB, MySQL, nodejs, oracle, photoshop, PostgreSQL, postman, python, react, reactnative, scala, xd      ![image](https://github.com/Edinam-Ukpabio/Edinam-Ukpabio/assets/91130565/fb91220b-42f6-46c5-b873-fd17fde21e1f) 
 
-![image](https://github.com/Edinam-Ukpabio/Edinam-Ukpabio/assets/91130565/b2e6e8f7-2324-4b9b-88b9-4430d76bdb9e)
+
 
 ![image](https://github.com/Edinam-Ukpabio/Edinam-Ukpabio/assets/91130565/a918e53f-e129-40ae-8d46-89a0e83216fa)
 
