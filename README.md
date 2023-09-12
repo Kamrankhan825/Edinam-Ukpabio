@@ -1,7 +1,7 @@
 ![image](https://github.com/Edinam-Ukpabio/Edinam-Ukpabio/assets/91130565/b9c27a57-8842-4f13-b6cc-a4af24c08f0a)
 
 # Hi 👋, I'm Edinam Ukpabio
-# I am Senior Software Developer from Nigeria
+# I am Software Developer from Nigeria
 
 🌱 I’m Professional learner I'm always excited to expand my skill set and explore new technologies.
 
