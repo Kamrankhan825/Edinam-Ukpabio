@@ -12,13 +12,13 @@ efficiently
 
 
 # 🔧 Technologies and Tools
-Cloud: AWS
-Containerization: Docker, Kubernetes
-CI/CD: Jenkins, GitLab CI/CD, GitHub Actions
-Configuration Management: Ansible, Terraform
-Monitoring: Prometheus, Grafana, ELK Stack
-Scripting: Bash, Python
-Version Control: Git, GitHub
+# Cloud: AWS
+# Containerization: Docker, Kubernetes
+# CI/CD: Jenkins, GitLab CI/CD, GitHub Actions
+# Configuration Management: Ansible, Terraform
+# Monitoring: Prometheus, Grafana, ELK Stack
+# Scripting: Bash, Python
+# Version Control: Git, GitHub
 
 
 
