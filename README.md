@@ -12,27 +12,26 @@ efficiently
 
 
 🔧 Technologies and Tools
-# Cloud
+Cloud
 AWS
-Azure
-# Containerization
+Containerization
 Docker
 Kubernetes
-# CI/CD
+CI/CD
 Jenkins
 GitLab CI/CD
 GitHub Actions
-# Configuration Management
+Configuration Management
 Ansible
 Terraform
-# Monitoring
+Monitoring
 Prometheus
 Grafana
 ELK Stack
-# Scripting
+Scripting
 Bash
 Python
-# Version Control
+Version Control
 Git
 GitHub
 
