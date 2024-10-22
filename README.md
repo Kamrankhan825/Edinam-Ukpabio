@@ -3,7 +3,7 @@
 # Hi 👋, I'm KamranKhan
 
 # DevOps Engineer | AWS Certified 
-Welcome to my GitHub profile! I’m a dedicated DevOps engineer with extensive experience in cloud technologies and automation. I take pleasure in creating scalable and resilient systems that enable teams to deliver software more quickly and 
+## Welcome to my GitHub profile! I’m a dedicated DevOps engineer with extensive experience in cloud technologies and automation. I take pleasure in creating scalable and resilient systems that enable teams to deliver software more quickly and 
 efficiently
 
 # Tech Stack
