@@ -1,10 +1,10 @@
 
 
-# Hi 👋, I'm ChristianAliyuda
+# Hi 👋, I'm KamranKhan
 
-# I am a Data Science and Machine Learning Scientist From UK
+![image](https://github.com/user-attachments/assets/1603eeb5-2dfe-4238-bf59-32eca41af5f1)
 
-# Hello, My name is Christian Aliyuda. I am a self-employed Data Science and Machine Learning Scientist.
+
 
 
 
